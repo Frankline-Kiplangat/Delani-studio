@@ -242,7 +242,10 @@ footer p{
     margin-left: 4%;
     margin-bottom: 10px;
   }
-  
+  .col-md-4{
+    display: flex;
+    text-align: center;
+  }
   #comment{
     margin-left: 4%;
     width: 100%;
@@ -258,7 +261,7 @@ footer p{
     padding-top:30%; 
   }
   .col-md-3 img{
-    width: 400px;
+    width: 300px;
     margin: 20px;
   }
   #portfolio{
@@ -276,7 +279,7 @@ footer p{
     font-size: 26px;
   }
   .col-md-3 img{
-    width: 400px;
+    width: 300px;
     margin: 20px;
   }
   #portfolio{
