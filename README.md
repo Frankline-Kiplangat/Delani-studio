@@ -27,7 +27,7 @@ This is a web application for Delani Studio. It shows more details about it. The
 <img src="">
 
 ## Link to Live Site
-
+https://frankline-kiplangat.github.io/Delani-studio/
 
 ## Contact information
 If you have any question, kindly send me an e-mail at (kipfrankline@gmail.com)
