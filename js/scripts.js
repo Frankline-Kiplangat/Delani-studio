@@ -33,9 +33,9 @@ $(document).ready(function(){
   
   $(document).ready(function(){
     $("#work1").mouseover(function(){
-      $("#overlay1").show();
+      $("#overlay").show();
     }).mouseout(function(){
-      $("#overlay1").hide();
+      $("#overlay").hide();
     });
   });
   $(document).ready(function(){
@@ -84,7 +84,7 @@ $(document).ready(function(){
   });
   
   $(document).ready(function(){
-    $("form#message-form").submit(function(event){
+    $("form#message-form").submit(function(){
       var name = $("input#MERGE1").val();
       if ($("input#MERGE1").val() && $("input#MERGE0").val()){
         alert (name + ", we have received your message. We will get back to you soon. Thank you for reaching out to us 😉");
