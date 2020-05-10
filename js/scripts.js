@@ -88,7 +88,7 @@ $(document).ready(function(){
         alert(name + ", we have received your message. We will get back to you soon. Thank you for reaching out to us 😉");
       }
       else {
-        alert("Please enter your name and email!");
+        alert("Please enter your name and email address!");
       }
       
     });
