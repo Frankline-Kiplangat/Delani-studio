@@ -51,8 +51,9 @@ html{
   padding-bottom: 30px;
   padding-top:40px;
   font-family: 'Copse', serif;
-  height: 400px;
+  height: 300px;
   margin-top: 50px;
+  font-size: large;
 }
 #about{
   font-family: 'Gabriela', serif;
@@ -68,6 +69,7 @@ html{
   font-size: 18px;
   height: 400px;
   margin-top: 50px;
+  font-size: larger;
   
 }
 .services h2{
