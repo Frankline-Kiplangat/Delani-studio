@@ -4,14 +4,14 @@ This is a web application for Delani Studio. It shows more details about it. The
 -Portfolio section
 -Form that enables a user to send a message to Delani Studio.
 
-## Author
-[Frankline-Kiplangat] (https://github.com/Frankline-Kiplangat)
+## Contributor
+Frankline-Kiplangat: https://github.com/Frankline-Kiplangat
 
 ## Technologies used
-* [HTML5](https://github.com/topics/html5)
-* [CSS](https://github.com/topics/css3)
-* [JQuery](https://github.com/topics/bootstrap)
-* [Bootstrap](https://github.com/topics/javascript)
+* HTML5
+* CSS
+* JQuery
+* Bootstrap
 
 ## Installation instructions
 * Open Terminal on your computer and create a folder
@@ -20,11 +20,7 @@ This is a web application for Delani Studio. It shows more details about it. The
 
 * Open it on a text editor (VS code/Atom)
 
-## BDD
-
-
-## Screenshot
-<img src="">
+* Contribute and push your changes to your newly created repository.
 
 ## Link to Live Site
 https://frankline-kiplangat.github.io/Delani-studio/

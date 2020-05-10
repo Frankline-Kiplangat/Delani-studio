@@ -31,7 +31,7 @@ html{
   padding-bottom: 30px; 
 }
 #mouse-click {
-  animation: bounce 2s infinite;
+  animation: bounce 3s infinite;
 }
 
 @keyframes bounce {
@@ -67,6 +67,8 @@ html{
   font-family: 'Copse', serif;
   font-size: 18px;
   height: 400px;
+  margin-top: 50px;
+  
 }
 .services h2{
   font-family: 'Times New Roman', Times, serif;
@@ -152,7 +154,6 @@ button{
   margin-bottom: 30px;
   position: relative;
   margin: 0 auto;
-  /* top: 50%; */
   left: 20%;
 }
 footer{
