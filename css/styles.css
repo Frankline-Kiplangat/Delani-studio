@@ -67,16 +67,16 @@ html{
   background-repeat: no-repeat;
   font-family: 'Copse', serif;
   font-size: 18px;
-  height: 400px;
-  margin-top: 50px;
+  height: 300px;
   font-size: larger;
+  padding: 80px;
 }
 .services h2{
   font-family: 'Times New Roman', Times, serif;
   text-transform: uppercase;
 }
 
-#servicesoverlay{
+.servicesoverlay{
   background-color: rgba(0,0,0,0.4);
   padding-top: 10%;
   padding-bottom: 10%;
