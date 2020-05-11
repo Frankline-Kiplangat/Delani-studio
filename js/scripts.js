@@ -84,7 +84,7 @@ $(document).ready(function(){
     $("form#message-form").submit(function(){
       var name = $("input#input1").val();
       if ($("input#input1").val() && $("input#input2").val()){
-        alert(name + ",thank you for reaching out to us 😉. We will get back to yu soon");
+        alert(name + ",thank you for reaching out to us 😉. We will get back to you soon");
       }
       else {
         alert("Please enter your name and email address!");
