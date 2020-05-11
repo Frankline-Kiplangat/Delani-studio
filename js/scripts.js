@@ -80,12 +80,11 @@ $(document).ready(function(){
       $("#overlay8").hide();
     });
   });
-  
   $(document).ready(function(){
     $("form#message-form").submit(function(){
       var name = $("input#input1").val();
       if ($("input#input1").val() && $("input#MERGE0").val()){
-        alert(name + ", we have received your message. We will get back to you soon. Thank you for reaching out to us 😉");
+        alert(name + ",thank you for reaching out to us 😉. We will get back to yu soon");
       }
       else {
         alert("Please enter your name and email address!");
