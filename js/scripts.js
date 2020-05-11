@@ -29,6 +29,12 @@ $(document).ready(function(){
     });
   });
   
+$(document).ready(function(){
+  $("#social_icons").click(function(){
+    $("#social_icons").slideDown(500)
+  });
+});
+
   $(document).ready(function(){
     $("#work1").mouseover(function(){
       $("#overlay").show();
