@@ -17,13 +17,13 @@ html{
   margin: 5px;
 }
 .home-page p{
-  padding: 2px;
+  padding: 5px;
 }
 #logo{
   margin-top: 12px;
   margin-bottom: 24px;
-  width: 70px;
-  height: 70px;;
+  width: 100px;
+  height: 100px;;
 }
 #mouse-click{
   padding-top : 22px;
@@ -51,7 +51,7 @@ html{
   padding-bottom: 30px;
   padding-top:40px;
   font-family: 'Copse', serif;
-  height: 300px;
+  height: 250px;
   margin-top: 50px;
   font-size: large;
 }
@@ -70,14 +70,12 @@ html{
   height: 400px;
   margin-top: 50px;
   font-size: larger;
-  
 }
 .services h2{
   font-family: 'Times New Roman', Times, serif;
+  text-transform: uppercase;
 }
-#services{
-  margin-top: 50px;
-}
+
 #servicesoverlay{
   background-color: rgba(0,0,0,0.4);
   padding-top: 10%;
