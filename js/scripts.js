@@ -83,7 +83,7 @@ $(document).ready(function(){
   $(document).ready(function(){
     $("form#message-form").submit(function(){
       var name = $("input#input1").val();
-      if ($("input#input1").val() && $("input#MERGE0").val()){
+      if ($("input#input1").val() && $("input#input2").val()){
         alert(name + ",thank you for reaching out to us 😉. We will get back to yu soon");
       }
       else {
