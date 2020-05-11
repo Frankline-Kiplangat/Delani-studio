@@ -236,6 +236,9 @@ footer p{
       float: left;
       text-align: center;
   }
+  .home-page p{
+font-size: larger;
+  }
   #input2{
     width: 100%;
     margin-left: 4%;
