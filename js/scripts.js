@@ -1,31 +1,31 @@
 $(document).ready(function(){
   $("#design-image").click(function(){
-    $("#design-image").slideDown().hide();
-    $("#design").show();
+    $("#design-image").slideDown(500).hide(500);
+    $("#design").show(500);
   });
   $("#design").click(function(){
-    $("#design").slideUp();
-    $("#design-image").slideDown();
+    $("#design").slideUp(500);
+    $("#design-image").slideDown(500);
   });
 });
 $(document).ready(function(){
     $("#development-image").click(function(){
-      $("#development-image").slideDown().hide();
-      $("#development").show();
+      $("#development-image").slideDown(500).hide(500);
+      $("#development").show(500);
     });
     $("#development").click(function(){
-      $("#development").slideUp();
-      $("#development-image").slideDown();
+      $("#development").slideUp(500);
+      $("#development-image").slideDown(500);
     });
   });
   $(document).ready(function(){
     $("#product-image").click(function(){
-      $("#product-image").slideDown().hide();
-      $("#product").show();
+      $("#product-image").slideDown(500).hide(500);
+      $("#product").show(500);
     });
     $("#product").click(function(){
-      $("#product").slideUp();
-      $("#product-image").slideDown();
+      $("#product").slideUp(500);
+      $("#product-image").slideDown(500);
     });
   });
   
